@@ -1,0 +1,265 @@
+{
+  "home": {
+    "carousel": {
+      "items": [
+        {
+          "tipology": "shp",
+          "shp_spSite": "news",
+          "int_link": "asasa",
+          "int_linkImage": "1",
+          "int_title": "1",
+          "int_subtitle": "1",
+          "app_link": "link",
+          "app_linkImage": "link",
+          "app_title": "titolo",
+          "app_package": "package1",
+          "app_subTitle": "sasa",
+          "shp_spItemId": 76
+        },
+        {
+          "tipology": "int",
+          "shp_spSite": "news",
+          "int_link": "sasa",
+          "int_linkImage": "sasa",
+          "int_title": "sa",
+          "int_subtitle": "sa"
+        },
+        {
+          "tipology": "ext",
+          "shp_spSite": "news",
+          "ext_link": "sa",
+          "ext_linkImage": "sa",
+          "ext_title": "sa",
+          "ext_subtitle": "sa"
+        },
+        {
+          "tipology": "app",
+          "shp_spSite": "news",
+          "app_link": "sa",
+          "app_linkImage": "sa",
+          "app_title": "sa",
+          "app_subTitle": "sa",
+          "app_package": "package2"
+        }
+      ]
+    },
+    "miniGallery": {
+      "tipology": "specificContent",
+      "items": [
+        {
+          "tipology": "int",
+          "shp_spSite": "news",
+          "shp_spItemId": 1,
+          "int_link": "sa",
+          "int_linkImage": "sa",
+          "int_title": "sa"
+        },
+        {
+          "tipology": "int",
+          "shp_spSite": "news",
+          "int_link": "1",
+          "int_linkImage": "1",
+          "int_title": "1"
+        },
+        {
+          "tipology": "shp",
+          "shp_spSite": "news",
+          "ext_link": "1",
+          "ext_linkImage": "1",
+          "ext_title": "1",
+          "shp_spItemId": 1
+        },
+        {
+          "tipology": "app",
+          "shp_spSite": "news",
+          "app_package": "package1",
+          "app_linkImage": "1",
+          "app_link": "1",
+          "app_title": "sa"
+        }
+      ],
+      "miniGallery_sp_site": "news",
+      "miniGallery_sp_last_publish_date": "2020-11-24",
+      "miniGallery_link_more_title": "titolo",
+      "miniGallery_link_more": "sa"
+    },
+    "boxGrid": {
+      "items": [
+        {
+          "box_key": "BUSTA_PAGA",
+          "box_mode": "on",
+          "title": "1"
+        },
+        {
+          "box_key": "TRASFERTE",
+          "box_mode": "off",
+          "title": "1",
+          "mode_off_text": "1"
+        }
+      ]
+    }
+  },
+  "hr": {
+    "topMenuEntry": {
+      "tipology": "app",
+      "shp_spSite": "news",
+      "title": "1",
+      "shp_spItemId": 1,
+      "int_link": "1",
+      "ext_link": "1",
+      "app_link": "1",
+      "app_package": "package1"
+    },
+    "boxGrid": {
+      "items": [
+        {
+          "box_key": "TRASFERTE",
+          "box_mode": "off",
+          "title": "1",
+          "mode_off_text": "1"
+        },
+        {
+          "box_key": "BUSTA_PAGA",
+          "box_mode": "on",
+          "title": "1"
+        }
+      ]
+    },
+    "footerBanner": {
+      "tipology": "app",
+      "shp_spSite": "news",
+      "footer_title": "1",
+      "footer_linkImage": "1",
+      "shp_spItemId": 1,
+      "int_link": "1",
+      "ext_link": "1",
+      "app_link": "1",
+      "app_package": "package1"
+    }
+  },
+  "work": {
+    "topMenuEntry": {
+      "tipology": "app",
+      "shp_spSite": "news",
+      "title": "1",
+      "shp_spItemId": 1,
+      "int_link": "1",
+      "ext_link": "1",
+      "app_link": "1",
+      "app_package": "package1"
+    },
+    "listMenuEntry": {
+      "items": [
+        {
+          "tipology": "app",
+          "icon": "fa-sasa",
+          "class": "Verde",
+          "shp_spSite": "news",
+          "title": "1",
+          "shp_spItemId": 1,
+          "int_link": "1",
+          "ext_link": "1",
+          "app_link": "1",
+          "app_package": "package1"
+        },
+        {
+          "tipology": "shp",
+          "icon": "fa-sasa",
+          "class": "Bianco",
+          "shp_spSite": "news",
+          "title": "1",
+          "shp_spItemId": 1
+        }
+      ]
+    },
+    "footerBanner": {
+      "tipology": "app",
+      "shp_spSite": "news",
+      "footer_title": "1",
+      "footer_linkImage": "1",
+      "shp_spItemId": 1,
+      "int_link": "1",
+      "ext_link": "1",
+      "app_link": "1",
+      "app_package": "package1"
+    }
+  },
+  "digital": {
+    "topMenuEntry": {
+      "tipology": "app",
+      "shp_spSite": "news",
+      "title": "1",
+      "shp_spItemId": 1,
+      "int_link": "1",
+      "ext_link": "1",
+      "app_link": "1",
+      "app_package": "package1"
+    },
+    "appMenuEntry": {
+      "items": [
+        {
+          "app_icon": "excel",
+          "app_package": "package1",
+          "app_title": "sa",
+          "app_link": "sa"
+        },
+        {
+          "app_icon": "onedrive",
+          "app_title": "1",
+          "app_link": "1",
+          "app_package": "package2"
+        }
+      ]
+    },
+    "footerBanner": {
+      "tipology": "app",
+      "shp_spSite": "news",
+      "footer_linkImage": "1",
+      "shp_spItemId": 1,
+      "int_link": "1",
+      "ext_link": "1",
+      "app_link": "1",
+      "app_package": "package1",
+      "footer_title": "sa"
+    }
+  },
+  "welfare": {
+    "topMenuEntry": {
+      "tipology": "shp",
+      "shp_spSite": "news",
+      "title": "1",
+      "shp_spItemId": 1,
+      "int_link": "1",
+      "ext_link": "1",
+      "app_link": "1",
+      "app_package": "package1"
+    },
+    "listMenuEntry": {
+      "items": [
+        {
+          "tipology": "ext",
+          "icon": "fa-sasa",
+          "class": "Bianco",
+          "shp_spSite": "news",
+          "title": "1",
+          "shp_spItemId": 1,
+          "int_link": "1",
+          "app_link": "1",
+          "app_package": "package1",
+          "ext_link": "1"
+        }
+      ]
+    },
+    "footerBanner": {
+      "tipology": "app",
+      "shp_spSite": "news",
+      "footer_title": "1",
+      "footer_linkImage": "1",
+      "shp_spItemId": 1,
+      "int_link": "1",
+      "ext_link": "1",
+      "app_link": "1",
+      "app_package": "package2"
+    }
+  }
+}
